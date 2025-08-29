@@ -1,0 +1,13 @@
+{
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "i2c_master.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c",
+        "esp_eth.h": "c",
+        "esp_eth_netif_glue.h": "c"
+    }
+}
